@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/food_site/static/css/main.f411e324.css",
+    "main.js": "/food_site/static/js/main.92109721.js",
+    "static/media/meal.avif": "/food_site/static/media/meal.9b05adbeb901e01c2a55.avif",
+    "static/media/delivery.jpg": "/food_site/static/media/delivery.22628d875a1e58c0bd01.jpg",
+    "index.html": "/food_site/index.html",
+    "main.f411e324.css.map": "/food_site/static/css/main.f411e324.css.map",
+    "main.92109721.js.map": "/food_site/static/js/main.92109721.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f411e324.css",
+    "static/js/main.92109721.js"
+  ]
+}
