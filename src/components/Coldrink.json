@@ -1,0 +1,123 @@
+[
+    {
+        "id" : 1,
+        "name" : "Milk Coffe",
+        "img" : "https://cdn.pixabay.com/photo/2017/06/14/03/00/coffe-2400874__340.jpg",
+        "price" : "49 /-"
+    },
+    {
+        "id" : 2,
+        "name" : "Hot Coffe",
+        "img" : "https://cdn.pixabay.com/photo/2016/04/26/16/58/coffe-1354786__340.jpg",
+        "price" : "69 /-"
+    },
+    {
+        "id" : 3,
+        "name" : "Bean Mix",
+        "img" : "https://cdn.pixabay.com/photo/2019/07/18/04/23/coffe-4345449__340.jpg",
+        "price" : "89 /-"
+    },
+    {
+        "id" : 4,
+        "name" : "Water Coffe",
+        "img" : "https://cdn.pixabay.com/photo/2015/09/18/22/45/coffe-946551__340.jpg",
+        "price" : "59 /-"
+    },
+    {
+        "id" : 5,
+        "name" : "Coffe With Cream",
+        "img" : "https://cdn.pixabay.com/photo/2020/03/20/20/49/coffe-4951985__340.jpg",
+        "price" : "119 /-"
+    },
+    {
+        "id" : 6,
+        "name" : "Chocolate Shake",
+        "img" : "https://media.istockphoto.com/photos/low-key-chocolate-smoothies-on-a-table-in-a-rustic-kitchen-picture-id1126893721?k=20&m=1126893721&s=612x612&w=0&h=3ZIalHUbW20lm2M2Jp47wav4CsnuJH1fDJa_ySSU97w=",
+        "price" : "139 /-"
+    },
+    {
+        "id" : 7,
+        "name" : "Strawberry Milkshake",
+        "img" : "https://media.istockphoto.com/photos/strawberry-milkshake-picture-id504639970?k=20&m=504639970&s=612x612&w=0&h=E7ixzZ8vDXlDM4mwKP_IYyisLf3E4OiANrwrOEbBtPc=",
+        "price" : "169 /-"
+    },
+    {
+        "id" : 8,
+        "name" : "Chocolate Shake with Icecream",
+        "img" : "https://media.istockphoto.com/photos/caramel-frappuccino-with-wipped-cream-on-marble-table-picture-id1181926259?k=20&m=1181926259&s=612x612&w=0&h=0QUHiQVXQeSdbf9iAwcYgPYRZZIEBwzbTQ1Jcn1KHbU=" ,
+        "price" : "175 /-" 
+    },
+    {
+        "id" : 9,
+        "name" : "Thick Coffe With Crush",
+        "img" : "https://media.istockphoto.com/photos/chocolate-mocha-frappe-whipped-creme-topping-picture-id951396042?k=20&m=951396042&s=612x612&w=0&h=EF4lr4MlU7r2iK43jx63ZGE85YGCzFaPctn9yjoPI7U=",
+        "price" : "159 /-"
+    },
+    {
+        "id" : 10,
+        "name" : "Chocolate Mango Milshake",
+        "img" : "https://media.istockphoto.com/photos/iced-caramel-latte-coffee-in-a-tall-glass-picture-id673742908?k=20&m=673742908&s=612x612&w=0&h=rs-h3QsXH-oPe4NB5MShMy_HcJObXvMlcVYrSOocvU0=",
+        "price" : "189 /-"
+    },
+    {
+        "id" : 11,
+        "name" : "Banana Milkshake",
+        "img" : "https://media.istockphoto.com/photos/banana-smoothie-picture-id1170162958?k=20&m=1170162958&s=612x612&w=0&h=oeCdxHvkybgCv5vs7ejaJVLfbgCV2f1jLmwSBE5iyVc=",
+        "price" : "119 /-"
+    },
+    {
+        "id" : 12,
+        "name" : "Oreo Shake",
+        "img" : "https://media.istockphoto.com/photos/vanilla-milkshake-with-chocolate-cookies-and-black-straw-picture-id683172868?k=20&m=683172868&s=612x612&w=0&h=sX_Y6X2oV2mYRFiAOl0eZXmgiMQD7LV01b2vmYbQp54=",
+        "price" : "149 /-"
+    },
+    {
+        "id" : 13,
+        "name" : "Black Berry Shake",
+        "img": "https://media.istockphoto.com/photos/tasty-blueberry-smoothie-in-glass-picture-id1156323059?k=20&m=1156323059&s=612x612&w=0&h=UPHepH5TGisRMqXsuWXeagW2esJ5jnY13S6eo3aaEnk=",
+        "price" : "199 /-"
+    },
+    {
+        "id" : 14,
+        "name": "Chocolate Jar",
+        "img" : "https://media.istockphoto.com/photos/caramel-and-chocolate-indulgent-exreme-milkshakes-with-brezel-waffles-picture-id696651168?k=20&m=696651168&s=612x612&w=0&h=BAQQZVgbYLqlafFs-jlVkC_oX49PAuCOisAAVVdRMmg=",
+        "price" : "219 /-"
+    },
+    {
+        "id" :15,
+        "name" : "Chocolate Orea Jar ",
+        "img" : "https://media.istockphoto.com/photos/cold-coffee-frappuccino-picture-id1308045723?k=20&m=1308045723&s=612x612&w=0&h=_5nXKqU6vwKckG_y69FGjmCoebA3CWhoDWMh4YaU45E=",
+        "price" : "239 /-"
+    },
+    {
+        "id" : 16,
+        "name" : "Commbo Milshake",
+        "img" : "https://media.istockphoto.com/photos/milk-shakes-in-plastic-cups-and-straws-on-a-dark-wooden-table-picture-id1311373994?k=20&m=1311373994&s=612x612&w=0&h=c5ZBvX65lxngG3NA4-ohfNuShvK-MJ-YoiONfRiGMMs=",
+        "price" : "299 /-"
+    },
+    {
+        "id" : 17,
+        "name" : "Watermelon Juice",
+        "img" : "https://media.istockphoto.com/photos/glass-of-cold-watermelon-smoothie-with-sliced-watermelon-placed-on-picture-id1256310009?k=20&m=1256310009&s=612x612&w=0&h=Prf38LH3SSSq8GFuknqb4qH0Qx8-QEWfgZvj2BpcvYo=",
+        "price" : "79 /-"
+    },
+    {
+        "id" : 18,
+        "name" : "Blackberry Juice",
+        "img" : "https://media.istockphoto.com/photos/grape-juice-picture-id1158220110?k=20&m=1158220110&s=612x612&w=0&h=B9MpPAUhSCzou6EhnehjcGY5AJFXRXNDyRHDWhD01aA=",
+        "price" : "89 /-"
+    },
+    {
+        "id" : 19,
+        "name" : "Orange Juice",
+        "img" : "https://media.istockphoto.com/photos/portion-of-fresh-made-orange-juice-picture-id452030153?k=20&m=452030153&s=612x612&w=0&h=APM3lRV0R_6W5IAUbFk5DtJr-VVqMHC4T6yD-m186Rs=",
+        "price" : "69 /-"
+    },
+    {
+        "id" : 20,
+        "name" : "Pineapple Juice",
+        "img" : "https://media.istockphoto.com/photos/freshly-squeezed-tropical-fruit-juice-with-pineapple-picture-id470745596?k=20&m=470745596&s=612x612&w=0&h=xtPteHw8Ao8tS5MGrqCKKHIpElA37VmG_r7uxVf9_2E=",
+        "price" : "79 /-"
+    }
+
+]

@@ -1,0 +1,124 @@
+[
+    {
+        "id" : 1,
+        "name" : "Paneer Pizza",
+        "img" : "https://cdn.pixabay.com/photo/2017/02/15/10/57/pizza-2068272__480.jpg",
+        "price" : "149 /-"
+    },
+    {
+        "id" : 2,
+        "name" : "Veggie Special",
+        "img" : "https://cdn.pixabay.com/photo/2017/09/30/15/10/plate-2802332__340.jpg",
+        "price" : "199 /-"
+    },
+    {
+        "id" : 3,
+        "name" : "Tomato Pizza",
+        "img" : "https://cdn.pixabay.com/photo/2014/07/08/12/34/pizza-386717__340.jpg",
+        "price" : "129 /-"
+    },
+    {
+        "id" : 4,
+        "name" : "Onion",
+        "img" : "https://cdn.pixabay.com/photo/2019/07/06/09/05/pizza-4319999__340.jpg",
+        "price" : "99 /-"
+    },
+    {
+        "id" : 5,
+        "name" : "Pan Base Tomato",
+        "img" : "https://cdn.pixabay.com/photo/2017/12/10/14/47/pizza-3010062__340.jpg",
+        "price" : "149 /-"
+    },
+    {
+        "id" : 6,
+        "name" : "Chessy",
+        "img":"https://cdn.pixabay.com/photo/2016/04/09/09/22/pizza-1317699__340.jpg",
+        "price" : "119 /-"
+    },
+    {
+        "id" : 7,
+        "name":"Vegetable Pizza",
+        "img" : "https://cdn.pixabay.com/photo/2017/07/22/22/50/big-2530142__340.jpg",
+        "price" : "139 /-"
+    },
+    {
+        "id" : 8,
+        "name" : "Margherita",
+        "img":"https://cdn.pixabay.com/photo/2015/12/07/22/27/pizza-1081534__340.jpg",
+        "price" : "89 /-"
+    },
+    {
+        "id" : 9,
+        "name" : "Panner & Tomato",
+        "img" : "https://cdn.pixabay.com/photo/2017/08/15/20/04/wood-fired-pizzas-2645327__340.jpg",
+        "price" : "115 /-"
+    },
+    {
+        "id" : 10,
+        "name" : "Garlic & Veggies",
+        "img" : "https://cdn.pixabay.com/photo/2016/06/08/00/03/pizza-1442946__340.jpg",
+        "price" : "145 /-"
+    },
+    {
+        "id" : 11,
+        "name" : "Chicken Loaded",
+        "img" : "https://media.istockphoto.com/photos/butter-chicken-pizza-picture-id1043604390?k=20&m=1043604390&s=612x612&w=0&h=BjxexUD8tUOcDT8mcyvcbpHZGtBroaxweIPRCP8MgzU=",
+        "price" : "135 /-"
+    },
+    {
+        "id" : 12,
+        "name" : "Chicken Pizza",
+        "img" : "https://media.istockphoto.com/photos/grilled-chicken-and-roasted-pepper-pizza-picture-id185280728?k=20&m=185280728&s=612x612&w=0&h=epXnhb06qR5p62gbZOmglQ0uUHVPCo_Ej9yKIipjTl8=",
+        "price" : "189 /-"
+    },
+    {
+        "id" : 13,
+        "name" : "Chicken Sausage",
+        "img" : "https://media.istockphoto.com/photos/chicken-pizza-picture-id489809469?k=20&m=489809469&s=612x612&w=0&h=w6oeQ8ZvFowp8h4PArVnHV3KSm0JyXgQkrxROxn56f4=",
+        "price" : "199 /-"
+    },
+    {
+        "id" : 14,
+        "name" : "Chicken & Garlic",
+        "img" : "https://media.istockphoto.com/photos/pizza-with-chicken-and-bacon-and-barbecue-sauce-on-beautiful-grey-picture-id1170997975?k=20&m=1170997975&s=612x612&w=0&h=VON0ojhplHqYCS1sZe-kbgiVdh0LoxeCx5HJw0w2haw=",
+        "price" : "179 /-"
+    },
+    {
+        "id" : 15,
+        "name" : "Red Sauce Chicken",
+        "img" : "https://media.istockphoto.com/photos/homemade-barbecue-chicken-pizza-picture-id484538935?k=20&m=484538935&s=612x612&w=0&h=9FmADEMzlBBlzLYW3MUAdC27mjZ9xjUU-XAm_GL0C5M=",
+        "price" : "209 /-"
+    },
+    {
+        "id" : 16,
+        "name" : "Chicken Kheema",
+        "img" : "https://media.istockphoto.com/photos/chicken-pizza-with-catupiry-cheese-in-brazil-it-is-called-chicken-picture-id1255499562?k=20&m=1255499562&s=612x612&w=0&h=cy_tbNRAb1rh5S4fv67Fe6kkhtyIdAbWVCbp4mOSfjc=",
+        "price" : "229 /-"
+    },
+    {
+        "id" : 17,
+        "name" : "Chicken Pasta Pizza",
+        "img" : "https://media.istockphoto.com/photos/buffalo-chicken-pizza-picture-id537643516?k=20&m=537643516&s=612x612&w=0&h=ndzf1PXfXiNxdYH1Azl3VwL8Up4jtwajsms0iGk1StY=",
+        "price" : "219 /-"
+    },
+    {
+        "id" :18,
+        "name" : "Mutton Pizza",
+        "img" : "https://media.istockphoto.com/photos/chicken-pizza-picture-id489593343?k=20&m=489593343&s=612x612&w=0&h=01TbSy8JzuVbDnd2H_SeF_uU2Y6ZYLUhZ62RBmpdKYc=",
+        "price" : "249 /-"
+    },
+    {
+        "id" : 19,
+        "name" : "Red Sauce Mutton",
+        "img" : "https://media.istockphoto.com/photos/butter-chicken-pizza-picture-id1329369461?k=20&m=1329369461&s=612x612&w=0&h=3gU7GJFfFvPN1ajupurdUqMeaQFvcrPha9BXU_9Z7Oc=",
+        "price" : "269 /-"
+    },
+    {
+        "id" : 20,
+        "name" : "Barbeque Chicken",
+        "img": "https://media.istockphoto.com/photos/barbecue-chicken-pizza-picture-id185225417?k=20&m=185225417&s=612x612&w=0&h=JAjyheG0rN1MDBVS0AUIlpjDH0M34cvBQ8o91UetbNA=",
+        "price" : "259 /-"
+    }
+
+
+]
